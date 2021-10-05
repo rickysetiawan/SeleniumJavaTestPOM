@@ -9,7 +9,7 @@ import com.ricky.example.App;
 
 public class AppTest {
 
-    String driverPath = "/Users/Rise5599/Downloads/geckodriver";
+    String driverPath = "/Users/Rise5599/Documents/SKILLS/QA/geckodriver";
     WebDriver driver;
 
     App objLogin;
